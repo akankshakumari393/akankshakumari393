@@ -1,7 +1,7 @@
 <p>
 	<a href="https://github.com/akankshakumari393"><img src="https://img.shields.io/github/followers/akankshakumari393.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/AkankshaK97"><img src="https://img.shields.io/twitter/follow/AkankshaK97?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://https://www.linkedin.com/in/akanksha-kumari-20b6a1117/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/akanksha-kumari-20b6a1117/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=akankshakumari393" alt="akankshakumari393" />
 </p>
 
