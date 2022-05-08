@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akankshakumari393&theme=highcontrast&show_icons=true&count_private=false)
+I am Akanksha. I work as a backend developer with Golang and Cloud Native technologies such as Kubernetes, Docker, Helm, DigitalOcean, AWS, GCP, CI/CD, etc. I have interest in System design, Distributed Systems. I am highly self-motivated, enthusiastic and always willing to learn more.
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=akankshakumari393&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akankshakumari393&layout=compact)
 
-<!--
-**akankshakumari393/akankshakumari393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshakumari393" alt="akankshakumari393" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Feel free to reach me at 
+
+  ⦿ Visit my [Website](https://akankshakumari393.github.io) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akanksha-kumari-20b6a1117/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/AkankshaK97) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:akankshakumari393@gmail.com) 💌 <br>
