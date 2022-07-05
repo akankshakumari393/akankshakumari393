@@ -13,11 +13,6 @@ I am Akanksha. I work as a backend developer with Golang and Cloud Native techno
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akankshakumari393&show_icons=true&count_private=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akankshakumari393&theme=neon-palenight&hide_border=true)
 
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rukundob451&theme=gruvbox)](https://github.com/akankshakumari393/github-profile-trophy)
-
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akankshakumari393&layout=compact)
 
 ### 📫 Feel free to reach me at 
