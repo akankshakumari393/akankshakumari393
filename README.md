@@ -17,7 +17,7 @@ I am Akanksha. I work as a backend developer with Golang and Cloud Native techno
 
 ### 📫 Feel free to reach me at 
 
-  ⦿ Visit my [Website](https://akankshakumari393.github.i) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akanksha-kumari-20b6a111/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/AkankshaK9) 🐦 <br>
+  ⦿ Visit my [Website](https://akankshakumari393.github.io) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akanksha-kumari-20b6a1117/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/AkankshaK97) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:akankshakumari393@gmail.com) 💌 <br>
